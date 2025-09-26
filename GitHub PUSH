@@ -1,0 +1,23 @@
+# cd "D:\New Obsidian\New Obsidian"
+
+# (Optional) Avoid Windows long-path issues
+git config --global core.longpaths true
+
+# Init and set main branch
+git init
+git branch -M main
+
+# Make sure .gitignore exists as above, then add & commit
+git add .gitignore
+git add .
+git commit -m "Initial commit (exclude Books and PDFs)"
+
+# If any PDFs were previously tracked, untrack them and recommit:
+# git rm -r --cached *.pdf
+# git rm -r --cached Books
+# git add .
+# git commit -m "Stop tracking PDFs/Books"
+
+# Point to your GitHub repo and push
+git remote add origin https://github.com/ChuckKeyes/Obsidian.git
+git push -u origin main

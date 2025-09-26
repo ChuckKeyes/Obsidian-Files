@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "1a0d5db2e342d6af",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca04c7123e6654f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5c7c8e48bff910",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ff02a716f25525b",
+    "type": "split",
+    "children": [
+      {
+        "id": "484dfe32dc9a6074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e328cb4ac453c7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4aa72ddcf56acc49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c65084df9fb6667",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "643b9f245cb705c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec88954b3c2b958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b7c60ffaa1e3a1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Multi-Region Load Balancer Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Multi-Region Load Balancer Setup"
+            }
+          },
+          {
+            "id": "a48455d8b6f83f2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Multi-Region Load Balancer Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Multi-Region Load Balancer Setup"
+            }
+          },
+          {
+            "id": "fa928010dd4365dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "770162b5d3c63006",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Multi-Region Load Balancer Setup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Multi-Region Load Balancer Setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "open-vscode:VSCode": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "cc5c7c8e48bff910",
+  "lastOpenFiles": [
+    "GitHub PUSH",
+    "README.md",
+    "GCP.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/05_Terraform_Files.md",
+    "gitignore.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/02_Storage.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/03_BigQuery.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/01_Project.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/00_Index.md",
+    "Templates/Terraform/GCP/BigQuery/How-to-Run.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/README.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/09_Issues_Log.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/08_Snippets.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/07_Deploy_Runbook.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/06_Queries.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/04_Service_Accounts_and_APIs.md",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template",
+    "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template.zip",
+    "Homework/GCP-Homework/BigQuery",
+    "Homework/GCP-Homework/New folder",
+    "Templates/Terraform/GCP/BigQuery/test-code-python_quickcheck.py.md",
+    "Templates/Terraform/GCP/BigQuery/test-code-bq_cli.sh.md",
+    "Templates/Terraform/GCP/BigQuery/queries_checks.sql.md",
+    "Templates/Terraform/GCP/BigQuery/queries_create_table.sql.md",
+    "Templates/Terraform/GCP/BigQuery/outputs.tf.md",
+    "Templates/Terraform/GCP/BigQuery/bigquery.tf.md",
+    "Templates/Terraform/GCP/BigQuery/storage.tf.md",
+    "Templates/Terraform/GCP/BigQuery/deployer-sa.tf.md",
+    "Templates/Terraform/GCP/BigQuery/enable-apis.tf.md",
+    "Templates/Terraform/GCP/BigQuery/terraform.tfvars.md",
+    "Templates/Terraform/GCP/BigQuery",
+    "Templates/Terraform/GCP",
+    "Templates/Terraform/AWS",
+    "Templates/Terraform",
+    "Templates/GCP",
+    "Books/GCP/Google Cloud Books/GCP - chap-1-45/GCP - Thanks to Aaron/Google Cloud Professional Cloud Architect GCP Certification/7. Managed Database Service in GCP/2.2 Untitled Diagram.jpg"
+  ]
+}
