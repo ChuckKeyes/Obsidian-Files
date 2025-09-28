@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 719.5
   },
   "right": {
     "id": "643b9f245cb705c1",
@@ -170,8 +170,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9de6832311ddf42b",
+  "active": "2e328cb4ac453c7a",
   "lastOpenFiles": [
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/9.1 08 - Modules Recap.pdf.pdf",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/9. Modules Recap.mp4",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/8.1 Using __main__.zip.zip",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/8. Using __main__.mp4",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/7.1 Reloading Modules.zip.zip",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/7. Reloading Modules.mp4",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/6.1 Import Variants and Misconceptions.zip.zip",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/6. Import Variants and Misconceptions - Coding.mp4",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/5.1 05 - Import Variants.pdf.pdf",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/5. Import Variants and Misconceptions - Lecture.mp4",
+    "Books/Python/Udemy Python Deep Dive Part 1-002/9. Modules, Packages and Namespaces/4.1 Imports and importlib.zip.zip",
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Load Balancer Docs.md",
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Index Note.md",
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Health Checks.md",
@@ -180,7 +191,6 @@
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Environment Checklist.md",
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Comments.md",
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Architecture Diagrams.md",
-    "Projects/GCP Projects/Terraform_BigQuery.pdf",
     "Obsidian Stuff/Load Balancer Docs.md",
     "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/README.md",
     "Homework/GCP-Homework/BigQuery/Obsidian_GCP_BigQuery_Template/Obsidian_GCP_BigQuery_Template/09_Issues_Log.md",
@@ -199,19 +209,9 @@
     "Class-Notes/AWS-Notes/Class 7 Week 3.md",
     "Python/print2025-09-27 134724.png",
     "Python/python.png",
-    "Python",
-    "New folder",
     "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Load Balancer Overview.md",
-    "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff/Manual Pages.md",
-    "Templates/Terraform/GCP/Load Balancer/Obsidian Stuff",
     "Class-Notes/AWS-Notes/IAM 183136.png",
     "Class-Notes/AWS-Notes/Group IAM2025-09-26 183458.png",
-    "Class-Notes/GCP-Notes",
-    "Class-Notes/AWS-Notes",
-    "Templates/Terraform/GCP/Load Balancer",
-    "Books/GCP/Official Google Cloud Certified Associate Cloud Engineer Study Guide.pdf",
-    "Books/GCP/Konrad Cłapa, Brian Gerrard - Professional Cloud Architect Google Cloud Certification Guide_ Build a solid foundation in Google Cloud Platform to achieve the most lucrative IT certification, 2nd Editi.pdf",
-    "Books/GCP/Google Cloud Certified Professional Cloud Architect All-in-One Exam Guide - Iman Ghanizada (2).pdf",
     "Books/GCP/Google Cloud Books/GCP - chap-1-45/GCP - Thanks to Aaron/Google Cloud Professional Cloud Architect GCP Certification/7. Managed Database Service in GCP/2.2 Untitled Diagram.jpg"
   ]
 }
