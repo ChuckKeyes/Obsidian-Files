@@ -1,4 +1,4 @@
-# cd "D:\New Obsidian\New Obsidian"
+cd "C:\Obsidian"
 
 # (Optional) Avoid Windows long-path issues
 git config --global core.longpaths true
@@ -19,5 +19,5 @@ git commit -m "Initial commit (exclude Books and PDFs)"
 # git commit -m "Stop tracking PDFs/Books"
 
 # Point to your GitHub repo and push
-git remote add origin https://github.com/ChuckKeyes/Obsidian.git
+git remote add origin https://github.com/YOUR-NAME/Obsidian.git
 git push -u origin main

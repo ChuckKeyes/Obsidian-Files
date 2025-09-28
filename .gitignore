@@ -1,3 +1,5 @@
 
 # Ignore the Books folder completely
 Books/
+GCP/GCP-Books
+AWS/AWS_Books

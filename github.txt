@@ -1,0 +1,7 @@
+1.Make your repo
+2.use code . in the folder
+3.git init
+4.Pull from repo
+5.Use that Push
+
+
