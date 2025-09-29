@@ -1,0 +1,17 @@
+
+
+bq-csv-dfd452
+
+bq-csv-dfd452/latina_bbl_certs2.csv
+full_name,initials,country,country_code,country_id_numeric,national_identity_card,certs,cert_dates,photo
+
+
+
+bq-csv-dfd452/brazil_testers.csv
+full_name,initials,country,country_code,national_identity_card,certifications,certification_dates,photo
+
+
+
+
+bq-csv-dfd452/asian_testers_50_split.csv
+full_name,initials,country,country_code,national_identity_card,certifications,certification_dates,photo,
